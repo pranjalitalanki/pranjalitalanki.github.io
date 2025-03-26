@@ -1,18 +1,27 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "The Ever-Evolving Landscape of Industries: Where Does Robotics Fit In?"
+author: Pranjali Talanki
+date: 26-03-2025
+categories: [AI, Robotics]
 image: assets/images/2.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+There’s always been a “hot topic” industry that dominates every era. Remember when medicine was making history with groundbreaking discoveries? Then came the boom of civil engineering and architecture, reshaping our cities and redefining urban life. Fast forward, and finance and technology took center stage, driving globalization and digital transformation. Now? We’re in the middle of an AI and automation revolution, where smart agents and intelligent workflows are redefining how we work, create, and innovate. Every era has its moment—so what’s next on the horizon? 🚀
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+If there’s one thing tying all these evolving industries together, it’s robotics. From medical advancements like robotic-assisted surgeries and AI-driven diagnostics to civil engineering innovations where autonomous machines are streamlining construction, the impact of robotics is everywhere. Even in finance and tech, robotic process automation (RPA) is reshaping workflows, making operations smoother and more efficient. As AI and robotics continue to merge, we’re not just witnessing automation but a fundamental shift in how industries function. The future isn’t just about machines taking over tasks—it’s about collaboration between humans and intelligent systems to make industries more efficient, innovative, and future-ready.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+So, What Exactly Is Robotics?
+Is robotics simply about manufacturing hardware to replace human labor? Or is it a set of mechanical systems designed to perform tasks autonomously? Maybe it’s just simulations and software models that mimic real-world functions? The truth is—robotics is all of this and more.
 
+At its core, AI and robotics go hand in hand, but they are not the same.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+AI is the software and cognitive intelligence—it mimics human thinking, learns from data, and simplifies mental tasks.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Robotics is about bringing AI into the physical world, creating a tangible impact through machines that interact with the environment and assist humans in ways that software alone cannot.
 
+From robotic arms in factories to autonomous drones in logistics, robotics is blurring the line between the digital and physical world. Whether it’s healthcare, construction, finance, or even creative industries, robotics is proving that the future isn’t just about automation—it’s about augmentation.
+
+Where Does the Boundary Lie?
+This brings us to an important question—where do we draw the line between AI and robotics? In a world shaped by intelligent machines, how do we define what’s "real" vs. what’s simply an advanced simulation? These are the kinds of discussions shaping the future of robotics, AI, and automation.
+
+With robotics continuously evolving, one thing is clear: it’s not just about replacing human effort but enhancing it. Whether it’s in laboratories, factories, or even our homes, robotics is not the future anymore—it’s the present, transforming industries in ways we’re only beginning to understand.
