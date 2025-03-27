@@ -135,9 +135,10 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
-    padding: 5rem 5rem;
+    background: url('/assets/images/your-background.jpg') no-repeat center center;
+    background-size: cover;
 }
+
 
 @media only screen and (max-width: 1024px) {
     .page-header.big {
